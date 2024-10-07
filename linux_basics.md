@@ -22,6 +22,7 @@ hostname
 
 # disk usage
 df -a
+df -f
 
 ## ressource usage
 top
